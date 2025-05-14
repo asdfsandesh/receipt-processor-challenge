@@ -1,6 +1,6 @@
 # Receipt Processor
 
-By: Sanjog Thapa
+By: Sandesh Pandit
 
 ## Objective
 
